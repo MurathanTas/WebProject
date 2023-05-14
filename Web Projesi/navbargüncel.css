@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+.about{
+    width: 100%;
+    height: 155vh;
+    background-color: #161922;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 300px;
+}
+
